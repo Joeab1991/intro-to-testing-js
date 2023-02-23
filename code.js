@@ -4,5 +4,6 @@ const helloWorld = function() {
 }
 
 const sayHello = () => {
-    return ``;
+    return `Hello, Jane!`;
 };
+console.log(sayHello())
