@@ -9,3 +9,19 @@ const sayHello = (input) => {
     }
     return "Hello, " + input + "!";
 };
+
+const isFive = (num) => {
+    return true;
+};
+
+const isEven = (num) => {
+
+};
+
+const isVowel = (num) => {
+
+};
+
+const add = (num) => {
+
+};
