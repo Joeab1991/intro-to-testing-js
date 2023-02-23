@@ -15,7 +15,7 @@ const isFive = (num) => {
 };
 
 const isEven = (num) => {
-
+    return true;
 };
 
 const isVowel = (num) => {
